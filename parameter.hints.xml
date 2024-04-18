@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Dart">
+        <added pattern="Text(data)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

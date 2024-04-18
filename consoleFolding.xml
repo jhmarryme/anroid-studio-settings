@@ -1,0 +1,15 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="D/EGL_emulation( 4929): app_time_stats:" />
+        <option value="D/EGL_emulation( 4929): app_time_stats: avg=500.27ms min=495.24ms max=505.30ms count=2" />
+        <option value="D/EGL_emulation( 5958): app_time_sta" />
+        <option value="D/EGL_emulation( 7882): app_time_stats: avg=8.84ms min=1.42ms max=29.29ms count=50" />
+        <option value="D/EGL_emulation(22627): app_time_stats:" />
+        <option value="D/EGL_emulation(22627): app_time_stats: avg=2951.68ms min=2951.68ms max=2951.68ms count=1" />
+        <option value="D/EGL_emulation( 7882): app_time_stats:" />
+      </list>
+    </option>
+  </component>
+</application>
