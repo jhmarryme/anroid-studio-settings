@@ -1,12 +1,13 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1711329646945" />
+    <option name="lastTrimTime" value="1713770646349" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Override this method to allow the data source asynchronously fetch [count] data beginning from [start] (e.g. from a server) and convert them to [DataRow][DataRow2] entities consumed by [AsyncPaginatedDataTable2] widget. Note that besides rows this method is also supposed to return the total number of available rows (both values are packed into [AsyncRowsResponse] instance returned from this method)" />
       <item value="recursion" />
       <item value="Flight Synopsis Card" />
       <item value="GoRouter] An extra with complex data type FlightSearchParam is provided without a codec. Consider provide a codec to GoRouter to prevent extra being dropped during serialization." />
@@ -14,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
