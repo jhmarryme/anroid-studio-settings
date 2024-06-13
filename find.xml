@@ -10,7 +10,7 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.gitignore</mask>
-    <mask>*.yaml</mask>
     <mask>*.dart</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
